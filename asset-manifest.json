@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Time-Track-App/static/js/main.5dc3278c.chunk.js",
+    "main.js.map": "/Time-Track-App/static/js/main.5dc3278c.chunk.js.map",
+    "runtime-main.js": "/Time-Track-App/static/js/runtime-main.20b8b7d0.js",
+    "runtime-main.js.map": "/Time-Track-App/static/js/runtime-main.20b8b7d0.js.map",
+    "static/css/2.430ba7ef.chunk.css": "/Time-Track-App/static/css/2.430ba7ef.chunk.css",
+    "static/js/2.678d1a1f.chunk.js": "/Time-Track-App/static/js/2.678d1a1f.chunk.js",
+    "static/js/2.678d1a1f.chunk.js.map": "/Time-Track-App/static/js/2.678d1a1f.chunk.js.map",
+    "index.html": "/Time-Track-App/index.html",
+    "precache-manifest.ea75cfa791e1a7e2fa622aec8ab797c7.js": "/Time-Track-App/precache-manifest.ea75cfa791e1a7e2fa622aec8ab797c7.js",
+    "service-worker.js": "/Time-Track-App/service-worker.js",
+    "static/css/2.430ba7ef.chunk.css.map": "/Time-Track-App/static/css/2.430ba7ef.chunk.css.map",
+    "static/js/2.678d1a1f.chunk.js.LICENSE.txt": "/Time-Track-App/static/js/2.678d1a1f.chunk.js.LICENSE.txt",
+    "static/media/semantic.css": "/Time-Track-App/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20b8b7d0.js",
+    "static/css/2.430ba7ef.chunk.css",
+    "static/js/2.678d1a1f.chunk.js",
+    "static/js/main.5dc3278c.chunk.js"
+  ]
+}
